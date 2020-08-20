@@ -1,3 +1,3 @@
 //# Write your code here
-count = 5
+count = 10
 while #{count} 
