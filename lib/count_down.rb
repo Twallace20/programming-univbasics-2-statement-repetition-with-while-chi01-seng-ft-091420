@@ -1,3 +1,5 @@
 //# Write your code here
 count = 10
-while #{count} 
+while #{count} do
+puts count
+count -= 1 
